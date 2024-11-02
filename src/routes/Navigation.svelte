@@ -20,6 +20,7 @@
 					<a href="/" class="nav-link">Startseite</a>
 					<a href="/about" class="nav-link">Über uns</a>
 					<a href="/privacy" class="nav-link">Datenschutz</a>
+					<a href="/tos" class="nav-link">Nutzungsbedingungen</a>
 					<a href="/pricing" class="nav-link">Preise</a>
 					<a href={discordLink} target="_blank" rel="noopener noreferrer" class="nav-link">Discord</a>
 				</div>

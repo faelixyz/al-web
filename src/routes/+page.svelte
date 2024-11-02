@@ -64,6 +64,19 @@
 
 		<Card>
 			<CardHeader>
+				<CardTitle>PrizePal Discord Bot (Englisch)</CardTitle>
+			</CardHeader>
+			<CardContent>
+				<p>
+					Ein Bot für Discord, der Gewinnspiele und Aktionen verwaltet. In Englisch!
+					<a href="https://us.p.aundl.tech" target="_blank" class="text-indigo-400">Besuchen Sie PrizePal US</a>
+				</p>
+			</CardContent>
+		</Card>
+
+
+		<Card>
+			<CardHeader>
 				<CardTitle>A&L Domains</CardTitle>
 			</CardHeader>
 			<CardContent>
