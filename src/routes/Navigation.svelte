@@ -38,8 +38,8 @@
 			<div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
 				<a href="/" class="mobile-nav-link">Startseite</a>
 				<a href="/about" class="mobile-nav-link">Über uns</a>
-				<a href="/privacy" class="mobile-nav-link">Datenschutz</					<a href="/tos" class="nav-link">Nutzungsbedingungen</a>
-				<a href="/tos" class="nav-link">Nutzungsbedingungen</a>
+				<a href="/privacy" class="mobile-nav-link">Datenschutz</a>
+				<a href="/tos" class="mobile-nav-link">Nutzungsbedingungen</a>
 				<a href="/pricing" class="mobile-nav-link">Preise</a>
 				<a href={discordLink} target="_blank" rel="noopener noreferrer" class="mobile-nav-link">Discord</a>
 			</div>
