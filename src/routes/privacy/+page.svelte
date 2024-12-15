@@ -7,7 +7,7 @@
 		AccordionContent
 	} from '$lib/components/ui/accordion';
 	import { Badge } from '$lib/components/ui/badge';
-	import { Trash2, Eye, ShieldOff, Cookie, Fingerprint } from 'lucide-svelte';
+	import { Trash2, Eye, Shield, Cookie, Fingerprint, CheckCircle } from 'lucide-svelte'; // Shield bleibt unverändert
 </script>
 
 <div class="container mx-auto px-4 py-16 max-w-3xl">
@@ -69,7 +69,7 @@
 			<AccordionTrigger>Wie schützen wir Ihre Daten?</AccordionTrigger>
 			<AccordionContent>
 				<div class="flex items-center space-x-2">
-					<Shield class="w-6 h-6 text-primary" />
+					<Shield class="w-6 h-6 text-primary" /> <!-- Shield bleibt hier -->
 					<span>Wir schützen Ihre Daten, indem wir sie in sichere Datenbanken speichern!</span>
 				</div>
 			</AccordionContent>
