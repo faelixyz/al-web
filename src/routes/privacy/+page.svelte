@@ -30,7 +30,7 @@
 			<AccordionTrigger>Welche Daten sammeln wir?</AccordionTrigger>
 			<AccordionContent>
 				<div class="flex items-center space-x-2">
-					<Trash2 class="w-6 h-6 text-primary" />
+					<CheckCircle class="w-6 h-6 text-primary" />
 					<span>
 						<strong>A&L Domains:</strong>
 						<ul>
@@ -69,7 +69,7 @@
 			<AccordionTrigger>Wie schützen wir Ihre Daten?</AccordionTrigger>
 			<AccordionContent>
 				<div class="flex items-center space-x-2">
-					<ShieldOff class="w-6 h-6 text-primary" />
+					<Shield class="w-6 h-6 text-primary" />
 					<span>Wir schützen Ihre Daten, indem wir sie in sichere Datenbanken speichern!</span>
 				</div>
 			</AccordionContent>
