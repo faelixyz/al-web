@@ -36,6 +36,12 @@
 					<a href="https://projekteplaner.de" target="_blank" class="text-indigo-400">Besuchen Sie ProjektePlaner</a>
 				</p>
 			</CardContent>
+                        <CardContent>
+				<p>
+					Eine Webseite, wo man seine Memes teilen kann!
+					<a href="https://memer.lol" target="_blank" class="text-indigo-400">Besuchen Sie ProjektePlaner</a>
+				</p>
+			</CardContent>
 		</Card>
 
 		<Card>
