@@ -36,6 +36,8 @@
 					<a href="https://projekteplaner.de" target="_blank" class="text-indigo-400">Besuchen Sie ProjektePlaner</a>
 				</p>
 			</CardContent>
+		</Card>
+		<Card>
                         <CardContent>
 				<p>
 					Eine Webseite, wo man seine Memes teilen kann!
@@ -43,7 +45,6 @@
 				</p>
 			</CardContent>
 		</Card>
-
 		<Card>
 			<CardHeader>
 				<CardTitle>AURA Counter</CardTitle>
