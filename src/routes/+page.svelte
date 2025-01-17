@@ -44,7 +44,7 @@
                         <CardContent>
 				<p>
 					Eine Webseite, wo man seine Memes teilen kann!
-					<a href="https://memer.lol" target="_blank" class="text-indigo-400">Besuchen Sie ProjektePlaner</a>
+					<a href="https://memer.lol" target="_blank" class="text-indigo-400">Besuchen Sie Memer.lol</a>
 				</p>
 			</CardContent>
 		</Card>
