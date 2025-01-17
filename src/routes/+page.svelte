@@ -38,6 +38,9 @@
 			</CardContent>
 		</Card>
 		<Card>
+			<CardHeader>
+				<CardTitle>Memer.lol</CardTitle>
+			</CardHeader>
                         <CardContent>
 				<p>
 					Eine Webseite, wo man seine Memes teilen kann!
