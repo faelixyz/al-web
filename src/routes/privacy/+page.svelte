@@ -52,6 +52,18 @@
 							<li>Projekte: Details zu Projekten, einschließlich Budget und Verantwortlichen.</li>
 							<li>Benutzer und Projektzuweisungen: Informationen zu Benutzern in Projekten.</li>
 						</ul>
+						<strong>PrizePal:</strong>
+						<ul>
+							<li>Giveaways: Endungen, Infos, Nachrichteninfo, Titel, Beschreibung usw.</li>
+							<li>Teilnehmer: IP-Adressen, Discord-Infos.</li>
+						</ul>
+						<strong>Memer.lol:</strong>
+						<ul>
+							<li>Memes: Alle Memes, die CDN-URL, Ersteller.</li>
+							<li>Likes: Wer welchen Meme geliked hat.</li>
+							<li>Aktivität: Per DeviceID (Cookie: deviceid) wird deine Startseite angepasst.</li>
+
+						</ul>
 					</span>
 				</div>
 			</AccordionContent>
